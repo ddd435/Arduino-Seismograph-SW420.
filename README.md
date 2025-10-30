@@ -200,7 +200,8 @@ cpp
 
 ## 📷 Фото проекта
 
-*(Добавьте фото вашего устройства)*
+*( <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6fe17ce-3b46-4bd4-ac46-9ce72aea2102" />
+)*
 
 
 
